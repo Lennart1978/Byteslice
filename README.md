@@ -4,7 +4,7 @@ Convert images to a byteslice and attach it to a .go file. For demonstration the
 usage:
 The program will ask for the image and .go file. After that it attaches your image as byteslice on your .go file. That's it !
 
-You can use my "showImage" function to Test your embedded image data.
+You can use my "showImage" function to test your embedded image data.
 
 Have fun ! 
 
