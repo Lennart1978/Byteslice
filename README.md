@@ -5,7 +5,3 @@ Usage:
 The program will ask for the image and .go file.After that it attaches your image as byteslice on your .go file.That's it !
 
 You can use my "showImage" function to test your embedded image data.
-
-Have fun ! 
-
-2023 - Lennart Martens - monkeynator78@gmail.com
